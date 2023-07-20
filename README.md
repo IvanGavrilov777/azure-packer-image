@@ -40,7 +40,7 @@ example: `cliend_id = "1111-2222-3333-4444"`
 * Build packer image: `packer build azure-ubuntu.pkr.hcl`
 
 ## Result
-If all the previous operations complete successfully you should receive report similar to the one below and to get your `ManagedImageID`:
+If all the previous operations complete successfully you should receive report similar to the one below and to get your `ManagedImageId`:
 ```
 ==> Wait completed after 6 minutes 30 seconds
 
